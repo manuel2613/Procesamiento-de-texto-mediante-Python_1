@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-22">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="sisef" label="sisef" />
+      <node id="points" label="points" />
+      <node id="balance" label="balance" />
+      <node id="code" label="code" />
+      <node id="supply" label="supply" />
+      <node id="open" label="open" />
+      <node id="mountain" label="mountain" />
+      <node id="impact" label="impact" />
+      <node id="gini" label="gini" />
+      <node id="approach" label="approach" />
+      <node id="comments" label="comments" />
+      <node id="fmm" label="fmm" />
+      <node id="loading" label="loading" />
+      <node id="hull" label="hull" />
+      <node id="iforest" label="iforest" />
+      <node id="species" label="species" />
+      <node id="instance" label="instance" />
+      <node id="transportation" label="transportation" />
+      <node id="would" label="would" />
+      <node id="aged" label="aged" />
+      <node id="overall" label="overall" />
+      <node id="universitet" label="universitet" />
+      <node id="response" label="response" />
+      <node id="sites" label="sites" />
+      <node id="planning" label="planning" />
+      <node id="scenario" label="scenario" />
+      <node id="front" label="front" />
+      <node id="group" label="group" />
+      <node id="mopls" label="mopls" />
+      <node id="damage" label="damage" />
+      <node id="attributes" label="attributes" />
+      <node id="alez" label="alez" />
+      <node id="psg" label="psg" />
+      <node id="savings" label="savings" />
+      <node id="spruce" label="spruce" />
+      <node id="funcion" label="funcion" />
+      <node id="mingling" label="mingling" />
+      <node id="coexistence" label="coexistence" />
+      <node id="organization" label="organization" />
+      <node id="route" label="route" />
+      <node id="continuous" label="continuous" />
+      <node id="accuracy" label="accuracy" />
+      <node id="dispatch" label="dispatch" />
+      <node id="tropical" label="tropical" />
+      <node id="ecosystem" label="ecosystem" />
+      <node id="pascual" label="pascual" />
+      <node id="navarro" label="navarro" />
+      <node id="growing" label="growing" />
+      <node id="cycle" label="cycle" />
+      <node id="particle" label="particle" />
+      <node id="information" label="information" />
+      <node id="sci" label="sci" />
+      <node id="chipped" label="chipped" />
+      <node id="storage" label="storage" />
+      <node id="nash" label="nash" />
+      <node id="differential" label="differential" />
+      <node id="ecuacion" label="ecuacion" />
+      <node id="prior" label="prior" />
+      <node id="net" label="net" />
+      <node id="periodo" label="periodo" />
+      <node id="best" label="best" />
+      <node id="framework" label="framework" />
+      <node id="dominance" label="dominance" />
+      <node id="terminal" label="terminal" />
+      <node id="personal" label="personal" />
+      <node id="co2" label="co2" />
+      <node id="states" label="states" />
+      <node id="output" label="output" />
+      <node id="cadena" label="cadena" />
+      <node id="duration" label="duration" />
+      <node id="suministro" label="suministro" />
+      <node id="preferred" label="preferred" />
+      <node id="equilibrium" label="equilibrium" />
+      <node id="however" label="however" />
+      <node id="areas" label="areas" />
+      <node id="ingreso" label="ingreso" />
+      <node id="sls" label="sls" />
+      <node id="infestation" label="infestation" />
+      <node id="frontier" label="frontier" />
+      <node id="voi" label="voi" />
+      <node id="authors" label="authors" />
+      <node id="volumen" label="volumen" />
+      <node id="unit" label="unit" />
+      <node id="alternative" label="alternative" />
+      <node id="soluciones" label="soluciones" />
+      <node id="probability" label="probability" />
+      <node id="emergency" label="emergency" />
+      <node id="problem" label="problem" />
+      <node id="competition" label="competition" />
+      <node id="vienna" label="vienna" />
+      <node id="projects" label="projects" />
+      <node id="gn2" label="gn2" />
+      <node id="crossover" label="crossover" />
+      <node id="location" label="location" />
+      <node id="mosoa" label="mosoa" />
+      <node id="scenarios" label="scenarios" />
+      <node id="type" label="type" />
+      <node id="extracted" label="extracted" />
+      <node id="late" label="late" />
+      <node id="grouse" label="grouse" />
+      <node id="version" label="version" />
+      <node id="tree" label="tree" />
+      <node id="direct" label="direct" />
+      <node id="differences" label="differences" />
+      <node id="markov" label="markov" />
+      <node id="set" label="set" />
+      <node id="source" label="source" />
+      <node id="biofuel" label="biofuel" />
+      <node id="life" label="life" />
+      <node id="point" label="point" />
+      <node id="ssdc" label="ssdc" />
+      <node id="study" label="study" />
+      <node id="heuristic" label="heuristic" />
+      <node id="models" label="models" />
+      <node id="martins" label="martins" />
+      <node id="optimal" label="optimal" />
+      <node id="vehicle" label="vehicle" />
+      <node id="npv" label="npv" />
+      <node id="modelos" label="modelos" />
+      <node id="zona" label="zona" />
+      <node id="bioone" label="bioone" />
+      <node id="programming" label="programming" />
+      <node id="constrained" label="constrained" />
+      <node id="techniques" label="techniques" />
+      <node id="domi" label="domi" />
+      <node id="uneven" label="uneven" />
+      <node id="policy" label="policy" />
+      <node id="cvar" label="cvar" />
+      <node id="dominated" label="dominated" />
+      <node id="xxx" label="xxx" />
+      <node id="design" label="design" />
+      <node id="plantation" label="plantation" />
+      <node id="wood" label="wood" />
+      <node id="mazziotta" label="mazziotta" />
+      <node id="papers" label="papers" />
+      <node id="actors" label="actors" />
+      <node id="obtained" label="obtained" />
+      <node id="acres" label="acres" />
+      <node id="reserved" label="reserved" />
+      <node id="revenues" label="revenues" />
+      <node id="sub" label="sub" />
+      <node id="employment" label="employment" />
+      <node id="non" label="non" />
+      <node id="studies" label="studies" />
+      <node id="curves" label="curves" />
+      <node id="impacts" label="impacts" />
+      <node id="emissions" label="emissions" />
+      <node id="habitat" label="habitat" />
+      <node id="stock" label="stock" />
+      <node id="conjunto" label="conjunto" />
+      <node id="final" label="final" />
+      <node id="mip" label="mip" />
+      <node id="landing" label="landing" />
+      <node id="approaches" label="approaches" />
+      <node id="connectivity" label="connectivity" />
+      <node id="article" label="article" />
+      <node id="maderable" label="maderable" />
+      <node id="industrial" label="industrial" />
+      <node id="neutral" label="neutral" />
+      <node id="programaci" label="programaci" />
+      <node id="content" label="content" />
+      <node id="19for" label="19for" />
+      <node id="cerrillo" label="cerrillo" />
+      <node id="articles" label="articles" />
+      <node id="ment" label="ment" />
+      <node id="users" label="users" />
+      <node id="green" label="green" />
+      <node id="trivi" label="trivi" />
+      <node id="neighbors" label="neighbors" />
+      <node id="eph" label="eph" />
+      <node id="aviation" label="aviation" />
+      <node id="table" label="table" />
+      <node id="software" label="software" />
+      <node id="trade" label="trade" />
+      <node id="iko" label="iko" />
+      <node id="site" label="site" />
+      <node id="biodiversity" label="biodiversity" />
+      <node id="thinned" label="thinned" />
+      <node id="protection" label="protection" />
+      <node id="values" label="values" />
+      <node id="stage" label="stage" />
+      <node id="job" label="job" />
+      <node id="offs" label="offs" />
+      <node id="methods" label="methods" />
+      <node id="sequential" label="sequential" />
+      <node id="combinatorial" label="combinatorial" />
+      <node id="rotation" label="rotation" />
+      <node id="750x" label="750x" />
+      <node id="levels" label="levels" />
+      <node id="iculos" label="iculos" />
+      <node id="mcts" label="mcts" />
+      <node id="owned" label="owned" />
+      <node id="nsga" label="nsga" />
+      <node id="scales" label="scales" />
+      <node id="perimeter" label="perimeter" />
+      <node id="important" label="important" />
+      <node id="dispersal" label="dispersal" />
+      <node id="romero" label="romero" />
+      <node id="regime" label="regime" />
+      <node id="pone" label="pone" />
+    </nodes>
+    <edges>
+      <edge source="points" target="approach" id="0" weight="2.0" />
+      <edge source="points" target="planning" id="1" weight="2.0" />
+      <edge source="points" target="problem" id="2" weight="3.0" />
+      <edge source="points" target="set" id="3" weight="2.0" />
+      <edge source="points" target="point" id="4" weight="3.0" />
+      <edge source="points" target="values" id="5" weight="2.0" />
+      <edge source="supply" target="transportation" id="6" weight="3.0" />
+      <edge source="supply" target="co2" id="7" weight="3.0" />
+      <edge source="supply" target="type" id="8" weight="2.0" />
+      <edge source="supply" target="biofuel" id="9" weight="2.0" />
+      <edge source="supply" target="optimal" id="10" weight="2.0" />
+      <edge source="supply" target="design" id="11" weight="3.0" />
+      <edge source="supply" target="wood" id="12" weight="3.0" />
+      <edge source="supply" target="emissions" id="13" weight="4.0" />
+      <edge source="approach" target="species" id="14" weight="2.0" />
+      <edge source="approach" target="planning" id="15" weight="3.0" />
+      <edge source="approach" target="ecosystem" id="16" weight="2.0" />
+      <edge source="approach" target="frontier" id="17" weight="3.0" />
+      <edge source="approach" target="problem" id="18" weight="4.0" />
+      <edge source="approach" target="point" id="19" weight="2.0" />
+      <edge source="approach" target="study" id="20" weight="2.0" />
+      <edge source="approach" target="wood" id="21" weight="2.0" />
+      <edge source="approach" target="approaches" id="22" weight="2.0" />
+      <edge source="species" target="planning" id="23" weight="3.0" />
+      <edge source="species" target="problem" id="24" weight="3.0" />
+      <edge source="species" target="tree" id="25" weight="3.0" />
+      <edge source="species" target="study" id="26" weight="2.0" />
+      <edge source="species" target="optimal" id="27" weight="2.0" />
+      <edge source="species" target="npv" id="28" weight="2.0" />
+      <edge source="species" target="habitat" id="29" weight="2.0" />
+      <edge source="species" target="trade" id="30" weight="2.0" />
+      <edge source="species" target="offs" id="31" weight="2.0" />
+      <edge source="species" target="pone" id="32" weight="2.0" />
+      <edge source="transportation" target="problem" id="33" weight="2.0" />
+      <edge source="transportation" target="emissions" id="34" weight="2.0" />
+      <edge source="planning" target="front" id="35" weight="2.0" />
+      <edge source="planning" target="ecosystem" id="36" weight="3.0" />
+      <edge source="planning" target="information" id="37" weight="2.0" />
+      <edge source="planning" target="frontier" id="38" weight="2.0" />
+      <edge source="planning" target="problem" id="39" weight="8.0" />
+      <edge source="planning" target="scenarios" id="40" weight="2.0" />
+      <edge source="planning" target="type" id="41" weight="2.0" />
+      <edge source="planning" target="tree" id="42" weight="5.0" />
+      <edge source="planning" target="set" id="43" weight="2.0" />
+      <edge source="planning" target="study" id="44" weight="6.0" />
+      <edge source="planning" target="models" id="45" weight="2.0" />
+      <edge source="planning" target="optimal" id="46" weight="7.0" />
+      <edge source="planning" target="npv" id="47" weight="3.0" />
+      <edge source="planning" target="programming" id="48" weight="2.0" />
+      <edge source="planning" target="policy" id="49" weight="3.0" />
+      <edge source="planning" target="wood" id="50" weight="6.0" />
+      <edge source="planning" target="obtained" id="51" weight="3.0" />
+      <edge source="planning" target="table" id="52" weight="3.0" />
+      <edge source="planning" target="values" id="53" weight="6.0" />
+      <edge source="planning" target="nsga" id="54" weight="2.0" />
+      <edge source="scenario" target="scenarios" id="55" weight="3.0" />
+      <edge source="scenario" target="study" id="56" weight="2.0" />
+      <edge source="scenario" target="npv" id="57" weight="2.0" />
+      <edge source="scenario" target="wood" id="58" weight="2.0" />
+      <edge source="front" target="problem" id="59" weight="2.0" />
+      <edge source="front" target="optimal" id="60" weight="2.0" />
+      <edge source="front" target="nsga" id="61" weight="2.0" />
+      <edge source="ecosystem" target="frontier" id="62" weight="2.0" />
+      <edge source="ecosystem" target="problem" id="63" weight="2.0" />
+      <edge source="ecosystem" target="study" id="64" weight="3.0" />
+      <edge source="ecosystem" target="wood" id="65" weight="4.0" />
+      <edge source="ecosystem" target="table" id="66" weight="2.0" />
+      <edge source="ecosystem" target="trade" id="67" weight="3.0" />
+      <edge source="ecosystem" target="values" id="68" weight="2.0" />
+      <edge source="ecosystem" target="offs" id="69" weight="3.0" />
+      <edge source="cycle" target="wood" id="70" weight="2.0" />
+      <edge source="cycle" target="impacts" id="71" weight="2.0" />
+      <edge source="storage" target="tree" id="72" weight="2.0" />
+      <edge source="prior" target="personal" id="73" weight="2.0" />
+      <edge source="prior" target="version" id="74" weight="2.0" />
+      <edge source="prior" target="final" id="75" weight="2.0" />
+      <edge source="best" target="wood" id="76" weight="2.0" />
+      <edge source="personal" target="version" id="77" weight="2.0" />
+      <edge source="personal" target="final" id="78" weight="2.0" />
+      <edge source="co2" target="design" id="79" weight="2.0" />
+      <edge source="co2" target="wood" id="80" weight="2.0" />
+      <edge source="co2" target="emissions" id="81" weight="3.0" />
+      <edge source="frontier" target="problem" id="82" weight="3.0" />
+      <edge source="frontier" target="wood" id="83" weight="2.0" />
+      <edge source="problem" target="scenarios" id="84" weight="2.0" />
+      <edge source="problem" target="set" id="85" weight="2.0" />
+      <edge source="problem" target="point" id="86" weight="3.0" />
+      <edge source="problem" target="study" id="87" weight="3.0" />
+      <edge source="problem" target="optimal" id="88" weight="5.0" />
+      <edge source="problem" target="programming" id="89" weight="2.0" />
+      <edge source="problem" target="policy" id="90" weight="2.0" />
+      <edge source="problem" target="wood" id="91" weight="2.0" />
+      <edge source="problem" target="obtained" id="92" weight="2.0" />
+      <edge source="problem" target="non" id="93" weight="2.0" />
+      <edge source="problem" target="values" id="94" weight="2.0" />
+      <edge source="problem" target="nsga" id="95" weight="2.0" />
+      <edge source="scenarios" target="npv" id="96" weight="3.0" />
+      <edge source="scenarios" target="wood" id="97" weight="2.0" />
+      <edge source="type" target="biofuel" id="98" weight="2.0" />
+      <edge source="type" target="study" id="99" weight="3.0" />
+      <edge source="type" target="npv" id="100" weight="2.0" />
+      <edge source="version" target="final" id="101" weight="2.0" />
+      <edge source="tree" target="wood" id="102" weight="2.0" />
+      <edge source="set" target="values" id="103" weight="2.0" />
+      <edge source="study" target="models" id="104" weight="2.0" />
+      <edge source="study" target="npv" id="105" weight="2.0" />
+      <edge source="study" target="programming" id="106" weight="2.0" />
+      <edge source="study" target="wood" id="107" weight="2.0" />
+      <edge source="study" target="trade" id="108" weight="2.0" />
+      <edge source="study" target="protection" id="109" weight="2.0" />
+      <edge source="study" target="values" id="110" weight="3.0" />
+      <edge source="study" target="offs" id="111" weight="2.0" />
+      <edge source="optimal" target="wood" id="112" weight="3.0" />
+      <edge source="optimal" target="table" id="113" weight="2.0" />
+      <edge source="optimal" target="values" id="114" weight="2.0" />
+      <edge source="optimal" target="nsga" id="115" weight="2.0" />
+      <edge source="npv" target="wood" id="116" weight="3.0" />
+      <edge source="npv" target="values" id="117" weight="2.0" />
+      <edge source="programming" target="values" id="118" weight="2.0" />
+      <edge source="design" target="emissions" id="119" weight="2.0" />
+      <edge source="wood" target="impacts" id="120" weight="2.0" />
+      <edge source="wood" target="table" id="121" weight="3.0" />
+      <edge source="wood" target="trade" id="122" weight="3.0" />
+      <edge source="wood" target="biodiversity" id="123" weight="2.0" />
+      <edge source="wood" target="values" id="124" weight="3.0" />
+      <edge source="wood" target="offs" id="125" weight="2.0" />
+      <edge source="obtained" target="values" id="126" weight="2.0" />
+      <edge source="table" target="trade" id="127" weight="2.0" />
+      <edge source="table" target="values" id="128" weight="2.0" />
+      <edge source="trade" target="biodiversity" id="129" weight="2.0" />
+      <edge source="trade" target="values" id="130" weight="2.0" />
+      <edge source="trade" target="offs" id="131" weight="4.0" />
+      <edge source="biodiversity" target="values" id="132" weight="2.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,2698 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-22">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="peso" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="año" type="long" />
+    </attributes>
+    <nodes>
+      <node id="16_Serrano etal_2021" label="16_Serrano etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="9_Eyvindson etal_2018" label="9_Eyvindson etal_2018">
+        <attvalues>
+          <attvalue for="0" value="2018" />
+        </attvalues>
+      </node>
+      <node id="34_Fotakis etal_2012" label="34_Fotakis etal_2012">
+        <attvalues>
+          <attvalue for="0" value="2012" />
+        </attvalues>
+      </node>
+      <node id="3_Amiri_y_Mohammadi_2024" label="3_Amiri_y_Mohammadi_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="24_Cambero y Sowlati_2016" label="24_Cambero y Sowlati_2016">
+        <attvalues>
+          <attvalue for="0" value="2016" />
+        </attvalues>
+      </node>
+      <node id="37_Guo y He_2025" label="37_Guo y He_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="17_Triviño etal_2015" label="17_Triviño etal_2015">
+        <attvalues>
+          <attvalue for="0" value="2015" />
+        </attvalues>
+      </node>
+      <node id="20_Baghizadeh etal_2021" label="20_Baghizadeh etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="36_Gonzalez-Gonzalez etal_2022" label="36_Gonzalez-Gonzalez etal_2022">
+        <attvalues>
+          <attvalue for="0" value="2022" />
+        </attvalues>
+      </node>
+      <node id="40_Jones etal_2024" label="40_Jones etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="18_Wang etal_2021" label="18_Wang etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="22_Belval y Thomson_2023" label="22_Belval y Thomson_2023">
+        <attvalues>
+          <attvalue for="0" value="2023" />
+        </attvalues>
+      </node>
+      <node id="53_Pascual_2021" label="53_Pascual_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="32_Dujardin y Chades_2018" label="32_Dujardin y Chades_2018">
+        <attvalues>
+          <attvalue for="0" value="2018" />
+        </attvalues>
+      </node>
+      <node id="47_Mazziotta etal_2025" label="47_Mazziotta etal_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="30_Diao y Geng_2023" label="30_Diao y Geng_2023">
+        <attvalues>
+          <attvalue for="0" value="2023" />
+        </attvalues>
+      </node>
+      <node id="11_Gutierrez-Franco etal_2021" label="11_Gutierrez-Franco etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="51_Navarro-Cerrillo etal_2025" label="51_Navarro-Cerrillo etal_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="29_Couture etal_2021" label="29_Couture etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="4_Aranda y Orjuela_2015" label="4_Aranda y Orjuela_2015">
+        <attvalues>
+          <attvalue for="0" value="2015" />
+        </attvalues>
+      </node>
+      <node id="50_Nanos etal_2024" label="50_Nanos etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="14_Qiu etal_2023" label="14_Qiu etal_2023">
+        <attvalues>
+          <attvalue for="0" value="2023" />
+        </attvalues>
+      </node>
+      <node id="26_Chen etal_2019" label="26_Chen etal_2019">
+        <attvalues>
+          <attvalue for="0" value="2019" />
+        </attvalues>
+      </node>
+      <node id="6_Cambero y Sowlati_2014" label="6_Cambero y Sowlati_2014">
+        <attvalues>
+          <attvalue for="0" value="2014" />
+        </attvalues>
+      </node>
+      <node id="43_Langner etal_2017" label="43_Langner etal_2017">
+        <attvalues>
+          <attvalue for="0" value="2017" />
+        </attvalues>
+      </node>
+      <node id="48_Medeiros etal_2020" label="48_Medeiros etal_2020">
+        <attvalues>
+          <attvalue for="0" value="2020" />
+        </attvalues>
+      </node>
+      <node id="31_Ding etal_2025" label="31_Ding etal_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="10_Eyvindson etal_2024" label="10_Eyvindson etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="19_Xiao etal_2022" label="19_Xiao etal_2022">
+        <attvalues>
+          <attvalue for="0" value="2022" />
+        </attvalues>
+      </node>
+      <node id="23_Bushaj etal_2021" label="23_Bushaj etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="15_Serrano etal_2019" label="15_Serrano etal_2019">
+        <attvalues>
+          <attvalue for="0" value="2019" />
+        </attvalues>
+      </node>
+      <node id="54_Pérez-Rodríguez etal_2018" label="54_Pérez-Rodríguez etal_2018">
+        <attvalues>
+          <attvalue for="0" value="2018" />
+        </attvalues>
+      </node>
+      <node id="21_Belavenutti etal_2023" label="21_Belavenutti etal_2023">
+        <attvalues>
+          <attvalue for="0" value="2023" />
+        </attvalues>
+      </node>
+      <node id="Ejemplo_bibliografico_Çağlayan et al_2018" label="Ejemplo_bibliografico_Çağlayan et al_2018">
+        <attvalues>
+          <attvalue for="0" value="2018" />
+        </attvalues>
+      </node>
+      <node id="45_Marques etal_2021" label="45_Marques etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="33_Ezquerro etal_2019" label="33_Ezquerro etal_2019">
+        <attvalues>
+          <attvalue for="0" value="2019" />
+        </attvalues>
+      </node>
+      <node id="2_Alvarez etal_2018" label="2_Alvarez etal_2018">
+        <attvalues>
+          <attvalue for="0" value="2018" />
+        </attvalues>
+      </node>
+      <node id="12_Nabhani etal_2024" label="12_Nabhani etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="8_Diaz-Yanez etal_2021" label="8_Diaz-Yanez etal_2021">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="28_Cheng etal_2024" label="28_Cheng etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="25_Chen etal_2017" label="25_Chen etal_2017">
+        <attvalues>
+          <attvalue for="0" value="2017" />
+        </attvalues>
+      </node>
+      <node id="7_Castro etal_2024" label="7_Castro etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="1_Abate etal_2024" label="1_Abate etal_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="27_Chung etal_2015" label="27_Chung etal_2015">
+        <attvalues>
+          <attvalue for="0" value="2015" />
+        </attvalues>
+      </node>
+      <node id="13_POFF etal_2010" label="13_POFF etal_2010">
+        <attvalues>
+          <attvalue for="0" value="2010" />
+        </attvalues>
+      </node>
+      <node id="35_Fotakis_2015" label="35_Fotakis_2015">
+        <attvalues>
+          <attvalue for="0" value="2015" />
+        </attvalues>
+      </node>
+      <node id="49_Nahorna etal_2025" label="49_Nahorna etal_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="38_Holmström etal_2023" label="38_Holmström etal_2023">
+        <attvalues>
+          <attvalue for="0" value="2023" />
+        </attvalues>
+      </node>
+      <node id="55_Pierda-Jimenez etal_2025" label="55_Pierda-Jimenez etal_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="42_Khadka y Vack_2012" label="42_Khadka y Vack_2012">
+        <attvalues>
+          <attvalue for="0" value="2012" />
+        </attvalues>
+      </node>
+      <node id="52_Neto etal_2020" label="52_Neto etal_2020">
+        <attvalues>
+          <attvalue for="0" value="2020" />
+        </attvalues>
+      </node>
+      <node id="5_Bettinger y Tang_2015" label="5_Bettinger y Tang_2015">
+        <attvalues>
+          <attvalue for="0" value="2015" />
+        </attvalues>
+      </node>
+      <node id="46_Marques etal_2021_B" label="46_Marques etal_2021_B">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="39_Huang y Shao_2025" label="39_Huang y Shao_2025">
+        <attvalues>
+          <attvalue for="0" value="2025" />
+        </attvalues>
+      </node>
+      <node id="44_Lu y Zhang_2024" label="44_Lu y Zhang_2024">
+        <attvalues>
+          <attvalue for="0" value="2024" />
+        </attvalues>
+      </node>
+      <node id="41_kanzian etal_2013" label="41_kanzian etal_2013">
+        <attvalues>
+          <attvalue for="0" value="2013" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="16_Serrano etal_2021" target="34_Fotakis etal_2012" id="0">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="37_Guo y He_2025" id="1">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="17_Triviño etal_2015" id="2">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="20_Baghizadeh etal_2021" id="3">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="36_Gonzalez-Gonzalez etal_2022" id="4">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="40_Jones etal_2024" id="5">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="53_Pascual_2021" id="6">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="30_Diao y Geng_2023" id="7">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="51_Navarro-Cerrillo etal_2025" id="8">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="33_Ezquerro etal_2019" id="9">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="2_Alvarez etal_2018" id="10">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="12_Nabhani etal_2024" id="11">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="8_Diaz-Yanez etal_2021" id="12">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="7_Castro etal_2024" id="13">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="35_Fotakis_2015" id="14">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="49_Nahorna etal_2025" id="15">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="52_Neto etal_2020" id="16">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="16_Serrano etal_2021" target="44_Lu y Zhang_2024" id="17">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="34_Fotakis etal_2012" id="18">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="36_Gonzalez-Gonzalez etal_2022" id="19">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="40_Jones etal_2024" id="20">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="26_Chen etal_2019" id="21">
+        <attvalues>
+          <attvalue for="1" value="0.36363636363636365" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="2_Alvarez etal_2018" id="22">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="12_Nabhani etal_2024" id="23">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="9_Eyvindson etal_2018" target="35_Fotakis_2015" id="24">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="3_Amiri_y_Mohammadi_2024" id="25">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="37_Guo y He_2025" id="26">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="20_Baghizadeh etal_2021" id="27">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="36_Gonzalez-Gonzalez etal_2022" id="28">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="40_Jones etal_2024" id="29">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="53_Pascual_2021" id="30">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="32_Dujardin y Chades_2018" id="31">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="47_Mazziotta etal_2025" id="32">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="51_Navarro-Cerrillo etal_2025" id="33">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="50_Nanos etal_2024" id="34">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="14_Qiu etal_2023" id="35">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="31_Ding etal_2025" id="36">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="10_Eyvindson etal_2024" id="37">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="21_Belavenutti etal_2023" id="38">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="39">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="45_Marques etal_2021" id="40">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="2_Alvarez etal_2018" id="41">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="12_Nabhani etal_2024" id="42">
+        <attvalues>
+          <attvalue for="1" value="0.2765957446808511" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="8_Diaz-Yanez etal_2021" id="43">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="25_Chen etal_2017" id="44">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="7_Castro etal_2024" id="45">
+        <attvalues>
+          <attvalue for="1" value="0.3953488372093023" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="1_Abate etal_2024" id="46">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="13_POFF etal_2010" id="47">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="35_Fotakis_2015" id="48">
+        <attvalues>
+          <attvalue for="1" value="0.36363636363636365" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="55_Pierda-Jimenez etal_2025" id="49">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="52_Neto etal_2020" id="50">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="34_Fotakis etal_2012" target="39_Huang y Shao_2025" id="51">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="37_Guo y He_2025" id="52">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="17_Triviño etal_2015" id="53">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="20_Baghizadeh etal_2021" id="54">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="40_Jones etal_2024" id="55">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="47_Mazziotta etal_2025" id="56">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="51_Navarro-Cerrillo etal_2025" id="57">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="50_Nanos etal_2024" id="58">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="14_Qiu etal_2023" id="59">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="48_Medeiros etal_2020" id="60">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="31_Ding etal_2025" id="61">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="54_Pérez-Rodríguez etal_2018" id="62">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="63">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="45_Marques etal_2021" id="64">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="12_Nabhani etal_2024" id="65">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="8_Diaz-Yanez etal_2021" id="66">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="25_Chen etal_2017" id="67">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="7_Castro etal_2024" id="68">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="35_Fotakis_2015" id="69">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="55_Pierda-Jimenez etal_2025" id="70">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="3_Amiri_y_Mohammadi_2024" target="44_Lu y Zhang_2024" id="71">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="37_Guo y He_2025" id="72">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="20_Baghizadeh etal_2021" id="73">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="11_Gutierrez-Franco etal_2021" id="74">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="51_Navarro-Cerrillo etal_2025" id="75">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="6_Cambero y Sowlati_2014" id="76">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="25_Chen etal_2017" id="77">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="24_Cambero y Sowlati_2016" target="41_kanzian etal_2013" id="78">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="17_Triviño etal_2015" id="79">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="20_Baghizadeh etal_2021" id="80">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="18_Wang etal_2021" id="81">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="53_Pascual_2021" id="82">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="30_Diao y Geng_2023" id="83">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="51_Navarro-Cerrillo etal_2025" id="84">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="50_Nanos etal_2024" id="85">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="14_Qiu etal_2023" id="86">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="43_Langner etal_2017" id="87">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="48_Medeiros etal_2020" id="88">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="31_Ding etal_2025" id="89">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="54_Pérez-Rodríguez etal_2018" id="90">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="91">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="45_Marques etal_2021" id="92">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="33_Ezquerro etal_2019" id="93">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="2_Alvarez etal_2018" id="94">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="12_Nabhani etal_2024" id="95">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="8_Diaz-Yanez etal_2021" id="96">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="28_Cheng etal_2024" id="97">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="25_Chen etal_2017" id="98">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="1_Abate etal_2024" id="99">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="35_Fotakis_2015" id="100">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="49_Nahorna etal_2025" id="101">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="55_Pierda-Jimenez etal_2025" id="102">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="52_Neto etal_2020" id="103">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="37_Guo y He_2025" target="44_Lu y Zhang_2024" id="104">
+        <attvalues>
+          <attvalue for="1" value="0.2765957446808511" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="36_Gonzalez-Gonzalez etal_2022" id="105">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="47_Mazziotta etal_2025" id="106">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="51_Navarro-Cerrillo etal_2025" id="107">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="43_Langner etal_2017" id="108">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="48_Medeiros etal_2020" id="109">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="54_Pérez-Rodríguez etal_2018" id="110">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="21_Belavenutti etal_2023" id="111">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="45_Marques etal_2021" id="112">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="33_Ezquerro etal_2019" id="113">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="2_Alvarez etal_2018" id="114">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="12_Nabhani etal_2024" id="115">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="8_Diaz-Yanez etal_2021" id="116">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="1_Abate etal_2024" id="117">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="35_Fotakis_2015" id="118">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="55_Pierda-Jimenez etal_2025" id="119">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="5_Bettinger y Tang_2015" id="120">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="17_Triviño etal_2015" target="44_Lu y Zhang_2024" id="121">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="40_Jones etal_2024" id="122">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="11_Gutierrez-Franco etal_2021" id="123">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="51_Navarro-Cerrillo etal_2025" id="124">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="50_Nanos etal_2024" id="125">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="14_Qiu etal_2023" id="126">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="26_Chen etal_2019" id="127">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="6_Cambero y Sowlati_2014" id="128">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="48_Medeiros etal_2020" id="129">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="31_Ding etal_2025" id="130">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="23_Bushaj etal_2021" id="131">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="12_Nabhani etal_2024" id="132">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="8_Diaz-Yanez etal_2021" id="133">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="25_Chen etal_2017" id="134">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="7_Castro etal_2024" id="135">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="38_Holmström etal_2023" id="136">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="39_Huang y Shao_2025" id="137">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="44_Lu y Zhang_2024" id="138">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="20_Baghizadeh etal_2021" target="41_kanzian etal_2013" id="139">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="40_Jones etal_2024" id="140">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="53_Pascual_2021" id="141">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="32_Dujardin y Chades_2018" id="142">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="47_Mazziotta etal_2025" id="143">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="51_Navarro-Cerrillo etal_2025" id="144">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="29_Couture etal_2021" id="145">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="50_Nanos etal_2024" id="146">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="14_Qiu etal_2023" id="147">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="10_Eyvindson etal_2024" id="148">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="54_Pérez-Rodríguez etal_2018" id="149">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="21_Belavenutti etal_2023" id="150">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="151">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="45_Marques etal_2021" id="152">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="33_Ezquerro etal_2019" id="153">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="2_Alvarez etal_2018" id="154">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="12_Nabhani etal_2024" id="155">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="8_Diaz-Yanez etal_2021" id="156">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="25_Chen etal_2017" id="157">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="7_Castro etal_2024" id="158">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="1_Abate etal_2024" id="159">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="13_POFF etal_2010" id="160">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="35_Fotakis_2015" id="161">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="49_Nahorna etal_2025" id="162">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="55_Pierda-Jimenez etal_2025" id="163">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="36_Gonzalez-Gonzalez etal_2022" target="52_Neto etal_2020" id="164">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="53_Pascual_2021" id="165">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="32_Dujardin y Chades_2018" id="166">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="47_Mazziotta etal_2025" id="167">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="30_Diao y Geng_2023" id="168">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="51_Navarro-Cerrillo etal_2025" id="169">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="50_Nanos etal_2024" id="170">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="31_Ding etal_2025" id="171">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="10_Eyvindson etal_2024" id="172">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="54_Pérez-Rodríguez etal_2018" id="173">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="21_Belavenutti etal_2023" id="174">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="175">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="12_Nabhani etal_2024" id="176">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="25_Chen etal_2017" id="177">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="7_Castro etal_2024" id="178">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="13_POFF etal_2010" id="179">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="35_Fotakis_2015" id="180">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="49_Nahorna etal_2025" id="181">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="52_Neto etal_2020" id="182">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="39_Huang y Shao_2025" id="183">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="40_Jones etal_2024" target="44_Lu y Zhang_2024" id="184">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="18_Wang etal_2021" target="30_Diao y Geng_2023" id="185">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="18_Wang etal_2021" target="14_Qiu etal_2023" id="186">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="18_Wang etal_2021" target="31_Ding etal_2025" id="187">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="18_Wang etal_2021" target="33_Ezquerro etal_2019" id="188">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="18_Wang etal_2021" target="44_Lu y Zhang_2024" id="189">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="22_Belval y Thomson_2023" target="13_POFF etal_2010" id="190">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="22_Belval y Thomson_2023" target="42_Khadka y Vack_2012" id="191">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="22_Belval y Thomson_2023" target="46_Marques etal_2021_B" id="192">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="32_Dujardin y Chades_2018" id="193">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="47_Mazziotta etal_2025" id="194">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="30_Diao y Geng_2023" id="195">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="51_Navarro-Cerrillo etal_2025" id="196">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="50_Nanos etal_2024" id="197">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="14_Qiu etal_2023" id="198">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="31_Ding etal_2025" id="199">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="10_Eyvindson etal_2024" id="200">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="54_Pérez-Rodríguez etal_2018" id="201">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="202">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="45_Marques etal_2021" id="203">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="33_Ezquerro etal_2019" id="204">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="2_Alvarez etal_2018" id="205">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="12_Nabhani etal_2024" id="206">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="25_Chen etal_2017" id="207">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="7_Castro etal_2024" id="208">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="1_Abate etal_2024" id="209">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="13_POFF etal_2010" id="210">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="35_Fotakis_2015" id="211">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="49_Nahorna etal_2025" id="212">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="52_Neto etal_2020" id="213">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="5_Bettinger y Tang_2015" id="214">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="39_Huang y Shao_2025" id="215">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="53_Pascual_2021" target="44_Lu y Zhang_2024" id="216">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="217">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="45_Marques etal_2021" id="218">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="2_Alvarez etal_2018" id="219">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="25_Chen etal_2017" id="220">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="7_Castro etal_2024" id="221">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="1_Abate etal_2024" id="222">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="49_Nahorna etal_2025" id="223">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="32_Dujardin y Chades_2018" target="39_Huang y Shao_2025" id="224">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="51_Navarro-Cerrillo etal_2025" id="225">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="50_Nanos etal_2024" id="226">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="14_Qiu etal_2023" id="227">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="43_Langner etal_2017" id="228">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="54_Pérez-Rodríguez etal_2018" id="229">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="21_Belavenutti etal_2023" id="230">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="2_Alvarez etal_2018" id="231">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="12_Nabhani etal_2024" id="232">
+        <attvalues>
+          <attvalue for="1" value="0.22448979591836735" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="8_Diaz-Yanez etal_2021" id="233">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="7_Castro etal_2024" id="234">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="1_Abate etal_2024" id="235">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="35_Fotakis_2015" id="236">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="49_Nahorna etal_2025" id="237">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="55_Pierda-Jimenez etal_2025" id="238">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="52_Neto etal_2020" id="239">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="47_Mazziotta etal_2025" target="5_Bettinger y Tang_2015" id="240">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="30_Diao y Geng_2023" target="48_Medeiros etal_2020" id="241">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="30_Diao y Geng_2023" target="8_Diaz-Yanez etal_2021" id="242">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="11_Gutierrez-Franco etal_2021" target="25_Chen etal_2017" id="243">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="11_Gutierrez-Franco etal_2021" target="41_kanzian etal_2013" id="244">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="29_Couture etal_2021" id="245">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="50_Nanos etal_2024" id="246">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="14_Qiu etal_2023" id="247">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="43_Langner etal_2017" id="248">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="31_Ding etal_2025" id="249">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="54_Pérez-Rodríguez etal_2018" id="250">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="21_Belavenutti etal_2023" id="251">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="252">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="45_Marques etal_2021" id="253">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="33_Ezquerro etal_2019" id="254">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="2_Alvarez etal_2018" id="255">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="12_Nabhani etal_2024" id="256">
+        <attvalues>
+          <attvalue for="1" value="0.2765957446808511" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="8_Diaz-Yanez etal_2021" id="257">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="28_Cheng etal_2024" id="258">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="25_Chen etal_2017" id="259">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="7_Castro etal_2024" id="260">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="1_Abate etal_2024" id="261">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="13_POFF etal_2010" id="262">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="35_Fotakis_2015" id="263">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="49_Nahorna etal_2025" id="264">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="55_Pierda-Jimenez etal_2025" id="265">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="52_Neto etal_2020" id="266">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="44_Lu y Zhang_2024" id="267">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="51_Navarro-Cerrillo etal_2025" target="41_kanzian etal_2013" id="268">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="29_Couture etal_2021" target="45_Marques etal_2021" id="269">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="14_Qiu etal_2023" id="270">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="48_Medeiros etal_2020" id="271">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="31_Ding etal_2025" id="272">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="10_Eyvindson etal_2024" id="273">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="54_Pérez-Rodríguez etal_2018" id="274">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="21_Belavenutti etal_2023" id="275">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="276">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="45_Marques etal_2021" id="277">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="33_Ezquerro etal_2019" id="278">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="12_Nabhani etal_2024" id="279">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="8_Diaz-Yanez etal_2021" id="280">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="28_Cheng etal_2024" id="281">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="25_Chen etal_2017" id="282">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="7_Castro etal_2024" id="283">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="13_POFF etal_2010" id="284">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="35_Fotakis_2015" id="285">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="49_Nahorna etal_2025" id="286">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="38_Holmström etal_2023" id="287">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="52_Neto etal_2020" id="288">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="5_Bettinger y Tang_2015" id="289">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="46_Marques etal_2021_B" id="290">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="50_Nanos etal_2024" target="44_Lu y Zhang_2024" id="291">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="31_Ding etal_2025" id="292">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="54_Pérez-Rodríguez etal_2018" id="293">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="21_Belavenutti etal_2023" id="294">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="295">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="33_Ezquerro etal_2019" id="296">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="12_Nabhani etal_2024" id="297">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="8_Diaz-Yanez etal_2021" id="298">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="28_Cheng etal_2024" id="299">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="25_Chen etal_2017" id="300">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="7_Castro etal_2024" id="301">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="35_Fotakis_2015" id="302">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="49_Nahorna etal_2025" id="303">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="52_Neto etal_2020" id="304">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="5_Bettinger y Tang_2015" id="305">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="14_Qiu etal_2023" target="44_Lu y Zhang_2024" id="306">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="26_Chen etal_2019" target="25_Chen etal_2017" id="307">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="26_Chen etal_2019" target="27_Chung etal_2015" id="308">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="6_Cambero y Sowlati_2014" target="48_Medeiros etal_2020" id="309">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="6_Cambero y Sowlati_2014" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="310">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="6_Cambero y Sowlati_2014" target="41_kanzian etal_2013" id="311">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="45_Marques etal_2021" id="312">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="33_Ezquerro etal_2019" id="313">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="12_Nabhani etal_2024" id="314">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="8_Diaz-Yanez etal_2021" id="315">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="1_Abate etal_2024" id="316">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="49_Nahorna etal_2025" id="317">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="55_Pierda-Jimenez etal_2025" id="318">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="43_Langner etal_2017" target="44_Lu y Zhang_2024" id="319">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="54_Pérez-Rodríguez etal_2018" id="320">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="321">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="45_Marques etal_2021" id="322">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="33_Ezquerro etal_2019" id="323">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="2_Alvarez etal_2018" id="324">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="8_Diaz-Yanez etal_2021" id="325">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="13_POFF etal_2010" id="326">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="46_Marques etal_2021_B" id="327">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="48_Medeiros etal_2020" target="44_Lu y Zhang_2024" id="328">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="10_Eyvindson etal_2024" id="329">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="54_Pérez-Rodríguez etal_2018" id="330">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="331">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="33_Ezquerro etal_2019" id="332">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="12_Nabhani etal_2024" id="333">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="8_Diaz-Yanez etal_2021" id="334">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="28_Cheng etal_2024" id="335">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="25_Chen etal_2017" id="336">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="7_Castro etal_2024" id="337">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="35_Fotakis_2015" id="338">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="49_Nahorna etal_2025" id="339">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="38_Holmström etal_2023" id="340">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="39_Huang y Shao_2025" id="341">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="31_Ding etal_2025" target="44_Lu y Zhang_2024" id="342">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="54_Pérez-Rodríguez etal_2018" id="343">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="344">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="12_Nabhani etal_2024" id="345">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="8_Diaz-Yanez etal_2021" id="346">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="25_Chen etal_2017" id="347">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="7_Castro etal_2024" id="348">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="1_Abate etal_2024" id="349">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="35_Fotakis_2015" id="350">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="10_Eyvindson etal_2024" target="49_Nahorna etal_2025" id="351">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="23_Bushaj etal_2021" target="2_Alvarez etal_2018" id="352">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="23_Bushaj etal_2021" target="7_Castro etal_2024" id="353">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="23_Bushaj etal_2021" target="39_Huang y Shao_2025" id="354">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="21_Belavenutti etal_2023" id="355">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="Ejemplo_bibliografico_Çağlayan et al_2018" id="356">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="45_Marques etal_2021" id="357">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="33_Ezquerro etal_2019" id="358">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="2_Alvarez etal_2018" id="359">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="12_Nabhani etal_2024" id="360">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="8_Diaz-Yanez etal_2021" id="361">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="25_Chen etal_2017" id="362">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="7_Castro etal_2024" id="363">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="1_Abate etal_2024" id="364">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="13_POFF etal_2010" id="365">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="35_Fotakis_2015" id="366">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="49_Nahorna etal_2025" id="367">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="55_Pierda-Jimenez etal_2025" id="368">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="54_Pérez-Rodríguez etal_2018" target="44_Lu y Zhang_2024" id="369">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="33_Ezquerro etal_2019" id="370">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="12_Nabhani etal_2024" id="371">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="8_Diaz-Yanez etal_2021" id="372">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="25_Chen etal_2017" id="373">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="7_Castro etal_2024" id="374">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="35_Fotakis_2015" id="375">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="55_Pierda-Jimenez etal_2025" id="376">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="21_Belavenutti etal_2023" target="41_kanzian etal_2013" id="377">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="45_Marques etal_2021" id="378">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="33_Ezquerro etal_2019" id="379">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="2_Alvarez etal_2018" id="380">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="12_Nabhani etal_2024" id="381">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="28_Cheng etal_2024" id="382">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="25_Chen etal_2017" id="383">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="7_Castro etal_2024" id="384">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="1_Abate etal_2024" id="385">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="13_POFF etal_2010" id="386">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="35_Fotakis_2015" id="387">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="49_Nahorna etal_2025" id="388">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="42_Khadka y Vack_2012" id="389">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="46_Marques etal_2021_B" id="390">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Ejemplo_bibliografico_Çağlayan et al_2018" target="44_Lu y Zhang_2024" id="391">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="33_Ezquerro etal_2019" id="392">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="2_Alvarez etal_2018" id="393">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="12_Nabhani etal_2024" id="394">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="8_Diaz-Yanez etal_2021" id="395">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="25_Chen etal_2017" id="396">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="7_Castro etal_2024" id="397">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="1_Abate etal_2024" id="398">
+        <attvalues>
+          <attvalue for="1" value="0.30434782608695654" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="55_Pierda-Jimenez etal_2025" id="399">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="52_Neto etal_2020" id="400">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="46_Marques etal_2021_B" id="401">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="45_Marques etal_2021" target="44_Lu y Zhang_2024" id="402">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="2_Alvarez etal_2018" id="403">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="12_Nabhani etal_2024" id="404">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="8_Diaz-Yanez etal_2021" id="405">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="7_Castro etal_2024" id="406">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="1_Abate etal_2024" id="407">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="13_POFF etal_2010" id="408">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="35_Fotakis_2015" id="409">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="49_Nahorna etal_2025" id="410">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="55_Pierda-Jimenez etal_2025" id="411">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="42_Khadka y Vack_2012" id="412">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="46_Marques etal_2021_B" id="413">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="33_Ezquerro etal_2019" target="44_Lu y Zhang_2024" id="414">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="12_Nabhani etal_2024" id="415">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="25_Chen etal_2017" id="416">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="1_Abate etal_2024" id="417">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="35_Fotakis_2015" id="418">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="49_Nahorna etal_2025" id="419">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="55_Pierda-Jimenez etal_2025" id="420">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="2_Alvarez etal_2018" target="39_Huang y Shao_2025" id="421">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="8_Diaz-Yanez etal_2021" id="422">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="25_Chen etal_2017" id="423">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="7_Castro etal_2024" id="424">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="1_Abate etal_2024" id="425">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="13_POFF etal_2010" id="426">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="35_Fotakis_2015" id="427">
+        <attvalues>
+          <attvalue for="1" value="0.2765957446808511" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="49_Nahorna etal_2025" id="428">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="55_Pierda-Jimenez etal_2025" id="429">
+        <attvalues>
+          <attvalue for="1" value="0.30434782608695654" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="52_Neto etal_2020" id="430">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="5_Bettinger y Tang_2015" id="431">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="39_Huang y Shao_2025" id="432">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="44_Lu y Zhang_2024" id="433">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="12_Nabhani etal_2024" target="41_kanzian etal_2013" id="434">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="8_Diaz-Yanez etal_2021" target="25_Chen etal_2017" id="435">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="8_Diaz-Yanez etal_2021" target="1_Abate etal_2024" id="436">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="8_Diaz-Yanez etal_2021" target="35_Fotakis_2015" id="437">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="8_Diaz-Yanez etal_2021" target="55_Pierda-Jimenez etal_2025" id="438">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="8_Diaz-Yanez etal_2021" target="44_Lu y Zhang_2024" id="439">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="7_Castro etal_2024" id="440">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="27_Chung etal_2015" id="441">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="35_Fotakis_2015" id="442">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="38_Holmström etal_2023" id="443">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="55_Pierda-Jimenez etal_2025" id="444">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="39_Huang y Shao_2025" id="445">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="25_Chen etal_2017" target="41_kanzian etal_2013" id="446">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="1_Abate etal_2024" id="447">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="13_POFF etal_2010" id="448">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="35_Fotakis_2015" id="449">
+        <attvalues>
+          <attvalue for="1" value="0.2765957446808511" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="55_Pierda-Jimenez etal_2025" id="450">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="52_Neto etal_2020" id="451">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="5_Bettinger y Tang_2015" id="452">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="39_Huang y Shao_2025" id="453">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="7_Castro etal_2024" target="44_Lu y Zhang_2024" id="454">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="1_Abate etal_2024" target="35_Fotakis_2015" id="455">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="1_Abate etal_2024" target="49_Nahorna etal_2025" id="456">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="1_Abate etal_2024" target="55_Pierda-Jimenez etal_2025" id="457">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="1_Abate etal_2024" target="44_Lu y Zhang_2024" id="458">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="27_Chung etal_2015" target="35_Fotakis_2015" id="459">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="27_Chung etal_2015" target="39_Huang y Shao_2025" id="460">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="13_POFF etal_2010" target="35_Fotakis_2015" id="461">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="13_POFF etal_2010" target="5_Bettinger y Tang_2015" id="462">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="13_POFF etal_2010" target="44_Lu y Zhang_2024" id="463">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="35_Fotakis_2015" target="49_Nahorna etal_2025" id="464">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="35_Fotakis_2015" target="55_Pierda-Jimenez etal_2025" id="465">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="35_Fotakis_2015" target="52_Neto etal_2020" id="466">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="35_Fotakis_2015" target="5_Bettinger y Tang_2015" id="467">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="35_Fotakis_2015" target="39_Huang y Shao_2025" id="468">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="35_Fotakis_2015" target="44_Lu y Zhang_2024" id="469">
+        <attvalues>
+          <attvalue for="1" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="49_Nahorna etal_2025" target="39_Huang y Shao_2025" id="470">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="38_Holmström etal_2023" target="39_Huang y Shao_2025" id="471">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="55_Pierda-Jimenez etal_2025" target="52_Neto etal_2020" id="472">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="55_Pierda-Jimenez etal_2025" target="44_Lu y Zhang_2024" id="473">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="55_Pierda-Jimenez etal_2025" target="41_kanzian etal_2013" id="474">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="42_Khadka y Vack_2012" target="46_Marques etal_2021_B" id="475">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="52_Neto etal_2020" target="5_Bettinger y Tang_2015" id="476">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="52_Neto etal_2020" target="44_Lu y Zhang_2024" id="477">
+        <attvalues>
+          <attvalue for="1" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="5_Bettinger y Tang_2015" target="44_Lu y Zhang_2024" id="478">
+        <attvalues>
+          <attvalue for="1" value="0.1320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="39_Huang y Shao_2025" target="41_kanzian etal_2013" id="479">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,30 @@
+
+        ============================================================
+        ANÁLISIS DE COMUNIDADES - LOUVAIN
+        ============================================================
+        
+        DATOS GENERALES:
+        - Total de conceptos analizados: 100
+        - Nodos en la red: 100
+        - Aristas en la red: 669
+        - Densidad de la red: 0.1352
+        
+        COMUNIDADES:
+        - Número de comunidades: 7
+        - Modularidad: 0.2133
+        - Tamaño promedio de comunidad: 14.3
+        
+        MÉTRICAS DE CENTRALIDAD (Top 5):
+        - PageRank: forest, management, objective, model, land
+        - Grado: forest, objective, management, model, forests
+        - Intermediación: objective, forest, management, model, crossref
+        
+        COMUNIDADES (Top términos por comunidad):
+        
+    Comunidad 0 (25 términos): forest, land, area, forests, crossref
+    Comunidad 1 (22 términos): management, optimization, decision, planning, multi
+    Comunidad 2 (18 términos): objective, carbon, solution, species, player
+    Comunidad 3 (1 términos): method
+    Comunidad 4 (19 términos): model, supply, biomass, wood, period
+    Comunidad 5 (6 términos): stand, fire, stands, thinning, fuel
+    Comunidad 6 (9 términos): tree, scenario, risk, problem, trees
